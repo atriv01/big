@@ -1,0 +1,1 @@
+// DELETED - Angular app component causing conflicts with React
