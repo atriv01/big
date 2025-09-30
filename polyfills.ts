@@ -1,0 +1,1 @@
+// DELETED - Angular polyfills removed to eliminate React conflicts

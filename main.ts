@@ -1,0 +1,1 @@
+// DELETED - Angular main.ts removed to eliminate React conflicts
